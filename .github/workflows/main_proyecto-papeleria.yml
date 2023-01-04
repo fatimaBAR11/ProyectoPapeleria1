@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Proyecto-Papeleria'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C57CA1EB454C48758B73A26136BED339 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C46F7306CEA7496AAD3307B0F1117110 }}
           package: .
